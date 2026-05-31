@@ -1,0 +1,4 @@
+1:A:Which country is Nasi Lemak the national food of?:A.Singapore:B.Indonesia:C.Malaysia:D.Thailand:C
+2:A:Which state is famous for Penang Assam Laksa?:A.Johor:B.Penang:C.Selangor:D.Perak:B
+3:B:What Malaysian food is shown in the picture?:A.Satay:B.Char Kway Teow:C.Tom Yum:D.Dim Sum:A:Satay.png
+4:B:What is this popular Malaysian street food?:A.Laksa:B.Roti Canai:C.Hainanese Chicken Rice:D.Bak Kut Teh:B:RotiCanai.jpg
